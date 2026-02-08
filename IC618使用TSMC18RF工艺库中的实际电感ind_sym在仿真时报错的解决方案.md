@@ -14,7 +14,7 @@ ERROR (SFE-23): "input.scs" 60: The instance L4' is referencing an undefined mod
 
 经过资料查询，发现报错 `SFE-23` 是因为在 **Model Library Setup** 里找不到 `ind_sym` 这个实际电感的路径。以下是具体解决步骤：
 
-![](p1.png)
+![报错截图](https://github.com/hxrYYG/RFIC-Learning-Notes/blob/main/p1.png?raw=true)
 
 1.  **检查当前模型配置**
     在仿真界面下打开 **Model Library Setup**。
