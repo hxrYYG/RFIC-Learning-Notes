@@ -1,7 +1,4 @@
 # RFIC Learning Notes (RFIC 学习笔记)
-
-这里记录了基于 **Cadence IC618** 和 **TSMC 180nm RF** 工艺库进行射频电路设计时的仿真踩坑记录、原理分析及心得体会。
-
 ---
 
 ## 📂 目录 (Table of Contents)
